@@ -49,5 +49,5 @@ main.py: Script principal para análise exploratória e visualização de dados.
 main.py: Script principal para análise exploratória e visualização de dados.
 
 7. Autores e Colaboradores:
-Gabryelle Beatriz Duarte Moraes
+Gabryelle Beatriz Duarte Moraes e 
 João Pedro de Jesus Silva
