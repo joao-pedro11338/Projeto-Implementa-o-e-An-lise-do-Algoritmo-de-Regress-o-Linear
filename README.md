@@ -19,9 +19,7 @@ pandas: Para manipulação e análise de dados.
 
 matplotlib e seaborn: Para criação de gráficos e visualizações.
 
-
-
-3. Preparação do ambiente:
+Preparação do ambiente:
 
 Certifique-se de ter o Visual Studio Code instalado.
 
