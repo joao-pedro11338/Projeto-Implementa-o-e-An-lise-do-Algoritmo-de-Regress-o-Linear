@@ -3,6 +3,7 @@
 Este estudo tem como objetivo investigar se a nacionalidade de um influenciador do Instagram está relacionada à sua capacidade de gerar engajamento na plataforma. Utilizando uma base de dados com os 200 perfis mais populares, será aplicada uma análise de regressão linear para identificar possíveis correlações entre a nacionalidade e métricas de engajamento, como número de curtidas, comentários e compartilhamentos por publicação. A escolha da regressão linear se justifica pela necessidade de modelar a relação linear entre a variável dependente (taxa de engajamento) e a variável independente (nacionalidade). É importante ressaltar que os resultados deste estudo são baseados em uma amostra específica e podem não ser generalizáveis para toda a plataforma.
 
 3. Instalação:
+
 Clone o repositório:
 
 git clone <https://github.com/joao-pedro11338/Projeto-Implementa-o-e-An-lise-do-Algoritmo-de-Regress-o-Linear/tree/main>
